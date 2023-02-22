@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(205, 230, 230);
+    align-items: center;
+}
+#box{
+    height: 100px;
+    width: 500px;
+    background-color: rgba(21, 20, 20, 0.847);
+    margin: 250px 0px 0px 480px;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.7);
+    border-radius: 12px;
+}
+#clock{
+    color: rgba(215, 213, 213, 0.896);
+    text-align: center;
+    font-size: 60px;
+    padding-top: 12px;
+}
