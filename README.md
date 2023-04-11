@@ -1,3 +1,3 @@
 # clock
-HTML | CSS |JavaScript
+HTML | CSS | JavaScript.
 View online => https://clock555.netlify.app/
